@@ -32,7 +32,7 @@ hr.spacer {
 
 // Value Section
 .value-container {
-    @include media-breakpoint-up(sm) {
+    @include media-breakpoint-up(lg) {
         padding: 40px 80px;
     }
     padding: 40px 20px;
